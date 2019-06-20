@@ -6,16 +6,7 @@ Throughout the project, explored the Olympics dataset(scraped from https://en.wi
 
 ### Learnings from the project
 
- After completing the project, have a better understanding of data handling with python(pandas). In this project, applied the following concepts :
-
-Dataframe operations
-
-Conditional statement and loops
-
-List operations
-
-Bar Plotting
-
-Mathematical operations
+ After completing the project,have a better understanding of data handling with python(pandas). Following concepts were applied in completion of project:
+Dataframe operations,Conditional statement and loops,List operations,Bar Plotting,Mathematical operations
 
 
